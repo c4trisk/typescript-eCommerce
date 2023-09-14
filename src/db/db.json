@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "category": "FASHION",
+      "name": "VerdeStride Men's Leather Shoe",
+      "description": "Step into sophistication and style with our VerdeStride Men's Leather Shoe. Crafted from premium green leather, these shoes are designed to elevate your footwear game while providing unbeatable comfort.",
+      "imageURL": "https://images.unsplash.com/photo-1560343090-f0409e92791a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
+      "price": 78
+    },
+    {
+      "id": "102",
+      "category": "ELECTRONICS",
+      "name": "Sunshine Yellow Gameboy Color",
+      "description": "Take a nostalgic trip down memory lane with the Sunshine Yellow Gameboy Color. This classic handheld gaming console brings back the joy of retro gaming and is perfect for gamers of all ages.",
+      "imageURL": "https://images.unsplash.com/photo-1531525645387-7f14be1bdbbd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80",
+      "price": 52
+    },
+    {
+      "id": "103",
+      "category": "FASHION",
+      "name": "ColorSplash Sneakers",
+      "description": "Elevate your sneaker game with our ColorSplash Sneakers. Available in a vibrant array of colors, these sneakers let you express your unique style while enjoying superior comfort and durability.",
+      "imageURL": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
+      "price": 99
+    },
+    {
+      "id": "104",
+      "category": "INTERIOR",
+      "name": "Mini Plant Podiums Set",
+      "description": "Elevate your home decor with our Mini Plant Podiums Set. These elegant podiums provide the perfect stage for your favorite indoor plants, adding a touch of sophistication to any room.",
+      "imageURL": "https://images.unsplash.com/photo-1620987278429-ab178d6eb547?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+      "price": 20
+    },
+    {
+      "id": "105",
+      "category": "ELECTRONICS",
+      "name": "Non-Wireless Bliss Headphones",
+      "description": "Immerse yourself in music with our Wireless Bliss Headphones. Experience unparalleled sound quality and comfort while enjoying the freedom of wireless connectivity. Your music, your way.",
+      "imageURL": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1884&q=80",
+      "price": 35
+    },
+    {
+      "id": "106",
+      "category": "INTERIOR",
+      "name": "Chic Pink & Blue Spray Bottles Set",
+      "description": "Stay organized and stylish with our Chic Pink & Blue Spray Bottles Set. These plastic spray bottles add a touch of flair to your daily routines, whether for skincare, gardening, or cleaning.",
+      "imageURL": "https://images.unsplash.com/photo-1617537230936-bb8c9327e84f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1926&q=80",
+      "price": 7
+    },
+    {
+      "id": "107",
+      "category": "ELECTRONICS",
+      "name": "Vintage-Inspired Polaroid Camera",
+      "description": "Capture moments in an instant with our Vintage-Inspired Polaroid Camera. Embrace the charm of analog photography with this easy-to-use camera that delivers instant, tangible memories.",
+      "imageURL": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
+      "price": 105
+    },
+    {
+      "id": "108",
+      "category": "FASHION",
+      "name": "Elegance Watch",
+      "description": "Adorn your wrist with timeless elegance. Our Unisex Watch combines classic design with modern features, making it the perfect accessory for any occasion and all genders.",
+      "imageURL": "https://images.unsplash.com/photo-1613704193420-a53cab02d194?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80",
+      "price": 229
+    },
+    {
+      "id": "109",
+      "category": "INTERIOR",
+      "name": "Rustic Wooden Stool",
+      "description": "Bring rustic charm into your home with our Wooden Stool. Crafted from solid wood, this versatile piece serves as both a stylish accent and a functional seat or side table.",
+      "imageURL": "https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG",
+      "price": 19
+    }
+  ]
+}
