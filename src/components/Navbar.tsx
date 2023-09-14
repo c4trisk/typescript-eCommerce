@@ -6,7 +6,7 @@ const Navbar = () => {
 
   const { cart, getTotalItems, isCartVisible, toggleCartVisibility } = useCartContext()
 
-  //! not working - Ensuring that shopping cart is closed when navigating
+  //! Ensuring that shopping cart is closed when navigating
   const handleNavigation = () => {
     if(isCartVisible) {
       toggleCartVisibility()

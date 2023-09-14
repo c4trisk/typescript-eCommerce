@@ -15,7 +15,7 @@ const ProductDetail = () => {
   if (!id) throw new Error('id not found.')
   
 
-  // Function for fetching product
+  // Fetching product
   const fetchProduct = async () => {
     try {
       const product = await findProductById(id);
@@ -27,7 +27,6 @@ const ProductDetail = () => {
       console.error(error);
     }
   };
-
   useEffect(() => {
     fetchProduct();
   }, []);

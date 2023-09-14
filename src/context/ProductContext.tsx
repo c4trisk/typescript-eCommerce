@@ -4,21 +4,18 @@ import { fetchProducts } from '../api/fetchProducts';
 import { fetchProductById } from '../api/fetchProductbyId';
 import { createProduct } from '../api/createProduct';
 
-// Define the shape of your context
+// Define the shape of context
 export interface ProductContextType {
   products: Product[];
   findProductById: (productId: string) => Promise<Product | null>;
   addProduct: (newProduct: Product) => Promise<void>
 }
 
-// Create a ProductContext
 export const ProductContext = createContext<ProductContextType | undefined>(undefined);
 
-// Define children prop explicitly
 interface ProductProviderProps {
   children: ReactNode; 
 }
-
 
 
 export const ProductProvider: React.FC<ProductProviderProps> = ({ children }) => {

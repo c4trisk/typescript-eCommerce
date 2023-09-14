@@ -9,14 +9,12 @@ interface ProductListItemProps {
 const ProductListItem: React.FC<ProductListItemProps> = ({ product }) => {
   return (
     product && (
-
     <Link to={`/products/${product.id}`} className="ProductListItem">
       <img src={product.imageURL} alt={product.name} className="img" />
       <h2 className="product-name">{product.name}</h2>
       <p className="product-price">$ {product.price.toFixed(2)}</p>
     </Link>
     )
-
   )
 }
 
