@@ -9,11 +9,6 @@ interface Product {
   price: number;
 }
 
-interface FashionProduct extends Product {
-  size: string;
-  color: string;
-}
-
 interface CartItem {
   product: Product;
   quantity: number;
@@ -21,4 +16,4 @@ interface CartItem {
 
 
 
-export type { ProductCategory, Product, FashionProduct, CartItem }
+export type { ProductCategory, Product, CartItem }
